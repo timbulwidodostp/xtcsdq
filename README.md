@@ -1,6 +1,8 @@
 # xtcsdq
 Tests of no cross-sectional error dependence in panel quantile regressions Use xtcsdq With STATA 19
 
+https://www.youtube.com/watch?v=7CZLfRTaiNI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
